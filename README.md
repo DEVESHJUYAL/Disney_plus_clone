@@ -1,3 +1,9 @@
+![image](https://github.com/DEVESHJUYAL/Disney_plus_clone/assets/91122298/5a14dc40-1775-44af-a2e0-2768081cacbc)
+
+![image](https://github.com/DEVESHJUYAL/Disney_plus_clone/assets/91122298/d702f31e-14c4-49a7-a9e8-caa1c2f1fb6e)
+
+![image](https://github.com/DEVESHJUYAL/Disney_plus_clone/assets/91122298/8308cef5-b532-4aad-9553-79dc18b84475)
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.

@@ -7,12 +7,6 @@ import firebase from "firebase"
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBxo1wau3cKDAymVWZshcN6sgJC48iHzEA",
-    authDomain: "disneyclone2023.firebaseapp.com",
-    projectId: "disneyclone2023",
-    storageBucket: "disneyclone2023.appspot.com",
-    messagingSenderId: "840188030161",
-    appId: "1:840188030161:web:b09132bbc21cfbb52da9f0"
 };
 
 // Initialize Firebase

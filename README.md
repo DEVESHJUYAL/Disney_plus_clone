@@ -1,8 +1,7 @@
-![image](https://github.com/DEVESHJUYAL/Disney_plus_clone/assets/91122298/5a14dc40-1775-44af-a2e0-2768081cacbc)
+![image](https://github.com/DEVESHJUYAL/Disney_plus_clone/assets/91122298/358edee6-06bf-48a0-81f7-327b8cc9fd91)
+![image](https://github.com/DEVESHJUYAL/Disney_plus_clone/assets/91122298/49512153-5ec7-4077-9cde-2bc8070b88e5)
+![image](https://github.com/DEVESHJUYAL/Disney_plus_clone/assets/91122298/e10167f4-1578-4c95-a668-146b1316dc1d)
 
-![image](https://github.com/DEVESHJUYAL/Disney_plus_clone/assets/91122298/d702f31e-14c4-49a7-a9e8-caa1c2f1fb6e)
-
-![image](https://github.com/DEVESHJUYAL/Disney_plus_clone/assets/91122298/8308cef5-b532-4aad-9553-79dc18b84475)
 
 # Getting Started with Create React App and Redux
 
